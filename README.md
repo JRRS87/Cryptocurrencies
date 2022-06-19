@@ -1,5 +1,7 @@
 # Cryptocurrencies
 
+Unsupervised Machine Learning and Cryptocurrencies
+
 ## Overview
 
 The goal of this project is to provide a report for an investor bank that is considering launching a new bitcoin investment portfolio. We will be using Crypto Compare's data to run unsupervised machine learning algorithms in order to complete this project.
